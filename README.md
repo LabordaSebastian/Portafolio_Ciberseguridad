@@ -1,7 +1,11 @@
 # Portafolio de Ciberseguridad - Sebastián Laborda
 
+<div align="center">
+  <img src="./assets/portfolio_cover.jpeg" alt="Portfolio de Ciberseguridad" width="500"/>
+</div>
+
 ## Sobre Mí
-¡Hola! Soy Sebastián Laborda. Este repositorio sirve como mi portafolio práctico de ciberseguridad, donde documento y comparto los ejercicios y proyectos desarrollados a lo largo del **Certificado Profesional de Ciberseguridad de Google** (actualmente en curso: 4/8 cursos completados).
+¡Hola! Soy Sebastián Laborda. Este repositorio sirve como mi portafolio práctico de ciberseguridad, donde documento y comparto los ejercicios y proyectos desarrollados a lo largo del **Certificado Profesional de Ciberseguridad de Google** (actualmente en curso: 4/9 cursos completados).
 
 > **Nota Importante:** Todo el material y los reportes documentados en este repositorio están redactados de manera bilingüe, disponibles tanto en **Inglés** como en **Español** en el interior de cada archivo.
 
