@@ -23,6 +23,7 @@
 | [Auditoría de Seguridad: Controles y Cumplimiento](./01_Auditorias_y_Evaluacion_de_Riesgos/Auditoria_de_Seguridad_Controles_y_Cumplimiento.pdf) | Informe completo sobre auditoría interna de controles. |
 | [Plan de Acción y Comunicación Directiva](./01_Auditorias_y_Evaluacion_de_Riesgos/Plan_de_Accion_y_Comunicacion_Directiva.pdf) | Estrategia de comunicación de hallazgos de ciberseguridad a la dirección. |
 | [Reporte de Evaluación de Riesgos](./01_Auditorias_y_Evaluacion_de_Riesgos/Reporte_Evaluacion_de_Riesgos_de_Seguridad.pdf) | Identificación, análisis y mitigación de amenazas clave. |
+| [Registro de Riesgos](./01_Auditorias_y_Evaluacion_de_Riesgos/Registro_de_Riesgos.pdf) | Identificación y evaluación de riesgos de seguridad utilizando una matriz de probabilidad y severidad. |
 | [Actividad de Clasificación de Recursos](./01_Auditorias_y_Evaluacion_de_Riesgos/Actividad_de_Clasificacion_de_Recursos/) | Clasificación de activos según acceso, sensibilidad y restricciones. |
 
 ### 📂 02. Respuesta a Incidentes y Framework NIST
