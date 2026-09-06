@@ -30,6 +30,7 @@
 | Proyecto | Descripción |
 |----------|-------------|
 | [Análisis de Incidente: Framework NIST](./02_Respuesta_a_Incidentes_y_NIST/Analisis_Incidente_Framework_NIST.pdf) | Aplicación rigurosa del marco NIST a un incidente documentado. |
+| [Análisis de Filtración de Datos (Mínimo Privilegio)](./02_Respuesta_a_Incidentes_y_NIST/Analisis_Filtracion_de_Datos.pdf) | Análisis de un incidente de fuga de datos basado en el control AC-6 de NIST (Mínimo Privilegio). |
 | [Reporte General de Incidente](./02_Respuesta_a_Incidentes_y_NIST/Reporte_General_Incidente_de_Seguridad.pdf) | Documentación estándar de procedimientos de manejo de incidentes. |
 | [Reporte de Incidente y Evidencia HTTP](./02_Respuesta_a_Incidentes_y_NIST/Reporte_Incidente_y_Evidencia_HTTP.pdf) <br> *(Ver log adjunto: [Log HTTP](./02_Respuesta_a_Incidentes_y_NIST/Log_HTTP_Evidencia.xlsx))* | Análisis detallado de una brecha utilizando registros de tráfico web. |
 
