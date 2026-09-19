@@ -26,6 +26,7 @@
 | [Registro de Riesgos](./01_Auditorias_y_Evaluacion_de_Riesgos/Registro_de_Riesgos.pdf) | Identificación y evaluación de riesgos de seguridad utilizando una matriz de probabilidad y severidad. |
 | [Actividad de Clasificación de Recursos](./01_Auditorias_y_Evaluacion_de_Riesgos/Actividad_de_Clasificacion_de_Recursos/) | Clasificación de activos según acceso, sensibilidad y restricciones. |
 | [Análisis de Controles de Acceso](./01_Auditorias_y_Evaluacion_de_Riesgos/Auditoria_Controles_de_Acceso/Analisis_Controles_de_Acceso.pdf) <br> *(Ver log adjunto: [Base de Datos y Logs](./01_Auditorias_y_Evaluacion_de_Riesgos/Auditoria_Controles_de_Acceso/Base_de_Datos_y_Logs_de_Acceso.xlsx))* | Evaluación de privilegios y autorización de usuarios en el sistema, aplicando principios de mínimo privilegio. |
+| [Evaluación de Vulnerabilidades](./01_Auditorias_y_Evaluacion_de_Riesgos/Evaluacion_de_Vulnerabilidades_NIST/Informe_Evaluacion_Vulnerabilidades.pdf) <br> *(Ver guía adjunta: [NIST SP 800-30 Rev. 1](./01_Auditorias_y_Evaluacion_de_Riesgos/Evaluacion_de_Vulnerabilidades_NIST/Guia_NIST_SP_800_30_Rev1.pdf))* | Informe de evaluación de vulnerabilidades de un servidor de base de datos aplicando la guía de riesgos NIST SP 800-30. |
 
 ### 📂 02. Respuesta a Incidentes y Framework NIST
 | Proyecto | Descripción |
