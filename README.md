@@ -37,6 +37,7 @@
 | [Análisis de Filtración de Datos (Mínimo Privilegio)](./02_Respuesta_a_Incidentes_y_NIST/Analisis_Filtracion_de_Datos.pdf) | Análisis de un incidente de fuga de datos basado en el control AC-6 de NIST (Mínimo Privilegio). |
 | [Reporte General de Incidente](./02_Respuesta_a_Incidentes_y_NIST/Reporte_General_Incidente_de_Seguridad.pdf) | Documentación estándar de procedimientos de manejo de incidentes. |
 | [Reporte de Incidente y Evidencia HTTP](./02_Respuesta_a_Incidentes_y_NIST/Reporte_Incidente_y_Evidencia_HTTP.pdf) <br> *(Ver log adjunto: [Log HTTP](./02_Respuesta_a_Incidentes_y_NIST/Log_HTTP_Evidencia.xlsx))* | Análisis detallado de una brecha utilizando registros de tráfico web. |
+| [Diario del Encargado de Incidentes: Ransomware](./02_Respuesta_a_Incidentes_y_NIST/Diario_del_Encargado_de_Incidentes.pdf) | Registro estructurado de un incidente de phishing y ransomware en una clínica de salud, aplicando el análisis de las 5 W (Quién, Qué, Cuándo, Dónde, Por qué) y mitigación con planes de recuperación ante desastres (DRP). |
 
 ### 📂 03. Linux y SQL
 | Proyecto | Descripción |
